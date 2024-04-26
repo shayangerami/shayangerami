@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shane</h1>
+<h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">Data and Busienss Analyst</h3>
 
 - 🧠 I’m currently learning **Machine Learning with Python**
